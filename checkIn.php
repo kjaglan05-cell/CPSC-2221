@@ -1,1 +1,0 @@
-//Select from the data base and then verify the user and then let them in?
