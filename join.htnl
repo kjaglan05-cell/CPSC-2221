@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Join Query</title>
+</head>
+<body>
+
+<h2>View Instructors for Classes</h2>
+
+<form method="POST" action="join.php">
+    <button type="submit">Show Data</button>
+</form>
+
+</body>
+</html>
